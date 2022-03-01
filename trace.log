@@ -1,0 +1,3 @@
+nada|select * from employes |2022-02-Sun 19:55:18|::1
+nada|select * from employes |2022-02-Sun 19:55:28|::1
+nada|insert into employes values (NULL, '', '','', '', '', '')|2022-02-Sun 19:58:05|::1
